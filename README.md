@@ -2,7 +2,7 @@
 
 My Name is Victor, musician, astronomy fan and _very_ excited to learn more about the coding world!
 
-<img scr="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmV6Z2hyaDlrd251MzYxZnl0ZDdzMHB5bTdlejJxNGplNGhxeDc4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwAZ6dvvvaTtdI8SD5/giphy.gif" alt="Michael Scott and Dwight Schrute from the serie "The Office U.S." dancing happly" />
+![Michael Scott and Dwight Schrute from the serie "The Office U.S." dancing happly](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmV6Z2hyaDlrd251MzYxZnl0ZDdzMHB5bTdlejJxNGplNGhxeDc4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwAZ6dvvvaTtdI8SD5/giphy.gif)
 
 ## My hobbies:
 
